@@ -14,4 +14,4 @@ I architect enterprise-grade Agentic AI applications, high-precision Retrieval-A
 - **[Autonomous Market Research Agent](#)** - Multi-agent pipeline using LangChain to scrape, filter, and validate cross-platform content data.
 - **[Multilingual AI Voice Assistant Backend](#)** - Streamlined internal corporate ticketing workflows, driving a 17% reduction in call volume.
 
-📬 Connect with me: wajihzaman99@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/ai-engineer-wajih/)
+📬 Connect with me: [linktree profile](https://linktr.ee/AIEngineerWajih) | [LinkedIn Profile](https://www.linkedin.com/in/ai-engineer-wajih/)
