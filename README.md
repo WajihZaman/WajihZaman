@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Wajih Uz Zaman, an Applied AI Solution Engineer.
+## 👋 Hi, I'm Wajih Uz Zaman. I am an AI Engineer.
 
 I architect enterprise-grade Agentic AI applications, high-precision Retrieval-Augmented Generation (RAG) pipelines, and resource-optimized local LLM deployments. 
 
