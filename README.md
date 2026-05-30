@@ -8,8 +8,8 @@ I architect enterprise-grade Agentic AI applications, high-precision Retrieval-A
 - **Data Engineering:** Automated Web Scraping, Structured Schema Extraction, Context Engineering
 
 #### Featured Engineering Productions
-- **[Enterprise Local RAG Bot](#)** - Achieved 12-25s response latency on CPU-only infrastructure (8 cores, 8GB RAM) with zero GPU overhead.
-- **[Autonomous Market Research Agent](#)** - Multi-agent pipeline using LangChain to scrape, filter, and validate cross-platform content data.
+- **[Local AI RAG Assistant](#)** - Achieved 12-25s response latency on CPU-only infrastructure (8 cores, 8GB RAM) with zero GPU overhead.
+- **[Agentic AI Copywriter](#)** - Agentic AI Copywriter app using LangChain to aggregate data from authentic market sources, process it via autonomous AI agents, and serve a seamless user interface for creating platform-specific marketing materials.
 - **[Multilingual AI Voice Assistant Backend](#)** - Streamlined internal corporate ticketing workflows, driving a 17% reduction in call volume.
 
 Let's Connect: [LinkedIn Profile](https://www.linkedin.com/in/ai-engineer-wajih/) | [Portfolio](https://linktr.ee/AIEngineerWajih)
