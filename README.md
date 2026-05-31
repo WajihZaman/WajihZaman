@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Wajih Uz Zaman, a Full-Stack AI Engineer!
+## Hi, I'm Wajih Uz Zaman, a Full-Stack AI Engineer!
 
 I architect enterprise-grade Agentic AI applications, high-precision Retrieval-Augmented Generation (RAG) pipelines, and resource-optimized local LLM deployments. 
 
