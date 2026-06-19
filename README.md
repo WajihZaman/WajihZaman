@@ -4,7 +4,7 @@ I architect enterprise-grade Agentic AI applications, high-precision Retrieval-A
 
 #### Core Technology Stack
 - **AI & LLM Orchestration:** LangChain, LangGraph, Ollama, Hugging Face, Vector DBs (PGVector, Qdrant)
-- **Backend & Full-Stack UI:** Python, FastAPI, Nuxt.js, Vue.js, JavaScript, Docker
+- **Backend & Full-Stack UI:** Python, FastAPI, Nuxt.js, Vue.js, JavaScript, CI/CD, Docker
 - **Data Engineering:** Automated Web Scraping, Structured Schema Extraction, Context Engineering
 
 #### Featured Engineering Productions
