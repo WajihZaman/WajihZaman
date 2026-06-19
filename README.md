@@ -12,4 +12,4 @@ I architect enterprise-grade Agentic AI applications, high-precision Retrieval-A
 - **[Agentic AI Copywriter](https://github.com/WajihZaman/agentic-ai-copywriter)** - Agentic AI Copywriter app using LangChain to aggregate data from authentic market sources, process it via autonomous AI agents, and serve a seamless user interface for creating platform-specific marketing materials.
 - **[Multilingual AI Voice Assistant Backend](#)** - Streamlined internal corporate ticketing workflows, driving a 17% reduction in call volume. (Confidential project – code cannot be publicly shared.)
 
-Let's Connect: [LinkedIn Profile](https://www.linkedin.com/in/ai-engineer-wajih/) | [Portfolio](https://linktr.ee/AIEngineerWajih)
+Let's Connect: [LinkedIn Profile](https://www.linkedin.com/in/ai-engineer-wajih/) | [AI Engineering Portfolio](https://huggingface.co/wz-ai-systems)
