@@ -15,6 +15,8 @@ The engineered dual-function backend architecture securely serves two distinct u
 App Demo: [AI Demo](https://feild-audit-agent.onrender.com)
 
 - **[Agentic AI Copywriter](https://github.com/WajihZaman/agentic-ai-copywriter)** - Agentic AI Copywriter app using LangChain to aggregate data from authentic market sources, process it via autonomous AI agents, and serve a seamless user interface for creating platform-specific marketing materials.
+Designed, built, and deployed an end-to-end Agentic AI application using LangChain to orchestrate autonomous agents with DuckDuckGo and Wikipedia search tools. Engineered the full-stack architecture to aggregate data from online sources, process it via autonomous
+AI agent, and serve it via seamless user interface for creating platform-specific marketing materials
   
 - **[Multilingual AI Voice Assistant Backend](#)** - Streamlined internal corporate ticketing workflows, driving a 17% reduction in call volume. Developed the system logic to ingest voice inputs in 8 different languages, automatically populate HR forms, and route them to HR for follow-up. This automation eliminated manual online form-filling by 11% within the first month of deployment.
 (Confidential project – code cannot be publicly shared.)
