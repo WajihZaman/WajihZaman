@@ -11,7 +11,7 @@ I architect enterprise-grade Agentic AI applications, high-precision Retrieval-A
 - **[Local AI RAG Assistant](https://github.com/WajihZaman/local-ai-rag-assistant)** - Designed and deployed a Local AI RAG Assistant for HR behavioral reporting using Llama 3.2 on CPU-only infrastructure (8 CPU cores, 8 GiB RAM), achieving response time between 12 to 25 seconds without GPU — replacing tools that cost $20,000–$80,000/year commercially.
 The engineered dual-function backend architecture securely serves two distinct user paths: anonymous incident reporting for employees and interactive workflow guidance for HR staff, deployed fully on Azure Server to meet AI Data Privacy and Compliance requirements.
   
-- **[Field Audit Agent](#)** - The Field Audit Agent is a four-agent pipeline built with Pydantic AI on Groq, orchestrated by a FastAPI backend with a vanilla HTML/CSS/JS frontend. Each agent has one narrow job, a strict structured output schema, and a system prompt encoding specific guardrails.<br>
+- **[Field Audit Agent](https://github.com/WajihZaman/Field-Audit-agent)** - The Field Audit Agent is a four-agent pipeline built with Pydantic AI on Groq, orchestrated by a FastAPI backend with a vanilla HTML/CSS/JS frontend. Each agent has one narrow job, a strict structured output schema, and a system prompt encoding specific guardrails.<br>
 App Demo: [AI Demo](https://feild-audit-agent.onrender.com)
 
 - **[Agentic AI Copywriter](https://github.com/WajihZaman/agentic-ai-copywriter)** - Agentic AI Copywriter app using LangChain to aggregate data from authentic market sources, process it via autonomous AI agents, and serve a seamless user interface for creating platform-specific marketing materials.
